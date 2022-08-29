@@ -10,7 +10,7 @@ Here we took a problem and trained the machine to predict the output for the giv
 
 ## Neural Network Model
 
-![output]()
+![output](https://github.com/Shrruthilaya-Gangadaran/basic-nn-model/blob/main/nn_model.webp)
 
 ## DESIGN STEPS
 
